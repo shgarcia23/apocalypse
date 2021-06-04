@@ -1,0 +1,148 @@
+body {
+    background: url("https://media.giphy.com/media/3oKIP657aH5QRMkX3q/giphy.gif");
+}
+
+.start {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+
+.next1 {
+    display: none;
+}
+
+.yes{}
+.no{}
+
+.op1 {
+    color: white;
+
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.op2 {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+
+}
+
+.d1 {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.y2 {
+    display: none;
+}
+
+.n2 {
+    display: none;
+}
+
+.outcome11 {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.outcome21 {
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.next2 {
+    display: none;
+}
+
+.d2 {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.y3 {
+    display: none;
+}
+
+.n3 {
+    display: none;
+}
+
+.outcome12 {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.outcome22 {
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.next3 {
+    display: none;
+}
+
+.d3 {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;
+}
+
+.y4 {
+    display: none;
+}
+
+.n4 {
+    display: none;
+}
+
+.outcome13 {border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;}
+
+.outcome23 {border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    display: none;}
